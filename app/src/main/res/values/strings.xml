@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ASM_AND103_PH41939</string>
+    <string-array name="spinner_price">
+        <item>Tăng dần</item>
+        <item>Giảm dần</item>
+    </string-array>
+</resources>
